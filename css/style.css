@@ -1,0 +1,47 @@
+.my-character-block{
+	margin: 0 auto;
+	width: 50%;
+	box-shadow: 1px 1px 1px 2px #CCCCCC;
+	overflow: auto;
+}
+
+.my-character-content{
+	padding: 15px;
+}
+
+.my-character-header{
+	height: 120px;
+}
+
+.my-character-header h1{
+	float: left;
+}
+
+.my-character-avatar{
+	float: right;
+	height: 100px;
+	border: 1px solid #CCCCCC;
+	padding: 2px;
+}
+
+.my-character-table{
+	overflow: auto;
+}
+
+.my-character-table table{
+	border-top: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	border-bottom: 2px solid #CCCCCC;
+}
+
+.my-character-td-title{
+	width: 10%;
+	background-color: #cdd0cd;
+	text-align: center;
+}
+
+.my-character-td-value{
+	width: 40%;
+	border-right: 1px solid #CCCCCC;
+	background-color: #FFFFFF;
+}
